@@ -43,7 +43,7 @@ Taking these points into consideration we were not able to develop a Minimum Via
 
 ### Proof of Concept
 
-We downloaded unlabeled fire images and videos from the internet. Then, we labeled those images manually using IBM's cloud annotation service. Once we had a dataset with 500 labeled points we trained our model using IBM's machine learning service for 500 steps. After training, we downloaded the model and integrated it with the react framework. 
+We downloaded unlabeled fire images and videos from the internet. Then, we labeled those images manually using IBM's cloud annotation service. Once we had a dataset with 500 labeled points we added 100 more images without fire to the dataset and trained our model using IBM's machine learning service for 500 steps. After training, we downloaded the model and integrated it with the react framework. 
 
 **End Product**
 
