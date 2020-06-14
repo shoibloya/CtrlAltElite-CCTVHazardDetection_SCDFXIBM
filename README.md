@@ -42,7 +42,7 @@ The proposed idea is to develop an Artificial Intelligence model to detect fire 
 
 `git clone` the repo `cd` into object-detection-react by running the following command:
 
-`git clone https://github.com/imanPorscheMan/CtrlAltElite-CCTVHazardDetection_SCDFXIBM.git`
+`git clone https://github.com/shoibloya/CtrlAltElite-CCTVHazardDetection_SCDFXIBM.git`
 
 `cd CtrlAltElite-CCTVHazardDetection_SCDFXIBM/object-detection-react`
 
