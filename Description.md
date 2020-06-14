@@ -23,7 +23,7 @@ On SCDF's arrival:
 ## How this technology could help SCDF operations
 
 1. Early identification of fire seat/source resulting in faster mitigation.
-2. Access to information regarding the nature of fire at FCC prior to entering the risk zone.
+2. Access to information regarding the nature of fire prior to entering the risk zone.
 3. Better understading of potential hazards involved such as backdraft, flashover etc.
 4. An Earlier intervention may prevent further precious resources from being activated.
 
