@@ -25,7 +25,7 @@ The proposed idea is to develop an Artificial Intelligence model to detect fire 
 
 ## Pitch video
 
-[Pitch Video](https://www.google.com)
+[Pitch Video](https://youtu.be/OcFSceMoDtg)
 
 ## The architecture
 
