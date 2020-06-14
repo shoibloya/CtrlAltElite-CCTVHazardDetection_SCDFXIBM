@@ -24,7 +24,7 @@ On SCDF's arrival:
 
 1. Early identification of fire seat/source resulting in faster mitigation.
 2. Access to information regarding the nature of fire prior to entering the risk zone.
-3. Better understanding of potential hazards involved such as backdraft, flashover etc.
+3. A Better understanding of potential hazards involved such as backdraft, flashover etc.
 4. Earlier intervention may prevent further precious resources from being activated.
 
 ## Current Technologies
