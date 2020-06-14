@@ -10,10 +10,10 @@ This solution aims to use Computer Vision, IoT and Artificial Intelligence to cr
 
 The model is deployed between the CCTV-Monitor communication line as shown in the figure. When the model detects fire from CCTV [Unique ID: 1A] the following series of events would be activated immediately:
 
-* CCTV 1A highlighted on monitor.
+* CCTV 1A highlighted on the monitor.
 * CCTV 1A's Unique ID and footage stored.
 * Fire alarm triggered.
-* SCDF alerted with the location of premise as well as the location of CCTV 1A within the premise.
+* SCDF alerted with the location of the premise as well as the location of CCTV 1A within the premise.
 
 On SCDF's arrival:
 
@@ -24,8 +24,8 @@ On SCDF's arrival:
 
 1. Early identification of fire seat/source resulting in faster mitigation.
 2. Access to information regarding the nature of fire prior to entering the risk zone.
-3. Better understading of potential hazards involved such as backdraft, flashover etc.
-4. An Earlier intervention may prevent further precious resources from being activated.
+3. Better understanding of potential hazards involved such as backdraft, flashover etc.
+4. Earlier intervention may prevent further precious resources from being activated.
 
 ## Current Technologies
 
@@ -36,14 +36,14 @@ We believe the current Fire Alarm System to be a robust architecture which is ve
 ### Limitations:
 
 * Lack of good quality data-set with more than 10,000 data points depicting real-life fire incidents.
-* Shortage of time to train for large number of steps/epochs.
-* Access to CCTV system as it may be confidential.
+* Shortage of time to train for a large number of steps/epochs.
+* Access to the CCTV system as it may be confidential.
 
 Taking these points into consideration we were not able to develop a Minimum Viable Product but were successful in developing a Proof of Concept.
 
 ### Proof of Concept
 
-We downloaded unlabeled fire images and videos from the internet. Then, we labeled those images manually using IBM's cloud annotation service. Once we had a dataset with 500 labeled points we trained our model using IBM's machine learning service for 500 steps.After training, we downloaded the model and integrated it with the react framework. 
+We downloaded unlabeled fire images and videos from the internet. Then, we labeled those images manually using IBM's cloud annotation service. Once we had a dataset with 500 labeled points we trained our model using IBM's machine learning service for 500 steps. After training, we downloaded the model and integrated it with the react framework. 
 
 **End Product**
 
@@ -53,10 +53,10 @@ Once installed and setup users can launch the web application in their browsers 
 
 Some improvements that could be implemented in the future:
 
-1. With no doubt the first step is to create a Minimum Viable Product with CCTV footage to better understand CCTV format.
+1. With no doubt, the first step is to create a Minimum Viable Product with CCTV footage to better understand CCTV format.
 2. Expansion of the solution to different hazard domains such as building collapse, people collapsing, RTA, distress detection etc.
 3. A method to provide CCTV footage first-hand to the responders thus eliminating the need to link up with the FSM.
 
 ## Conclusion 
 
-The proposed concept would immensely help fire responders in handling of fire operations. The solution stands strong from a financial view point as there is no requirement for the deployment and/or manufacture of new hardware since the solution makes use of CCTV technology which is already installed in a vast majority of buildings in Singapore. The proposed idea is not limited to fire hazards but could be easily implemented for other hazard domains as well.
+The proposed concept would immensely help fire responders in the handling of fire operations. The solution stands strong from a financial viewpoint as there is no requirement for the deployment and/or manufacture of new hardware since the solution makes use of CCTV technology which is already installed in a vast majority of buildings in Singapore. The proposed idea is not limited to fire hazards but could be easily implemented for other hazard domains as well.
